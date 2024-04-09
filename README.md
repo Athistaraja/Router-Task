@@ -11,7 +11,7 @@
  
 ## Netlify Deployed URL
 
-🔸*Check out My CRUD TODO TASK Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://lively-sopapillas-b7411a.netlify.app/)
+🔸*Check out My React Router TASK Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://lively-sopapillas-b7411a.netlify.app/)
 
 ## Features
 

@@ -1,9 +1,9 @@
-# CRUD TODO TASK
+# React Router TASK
 
 ## Table of Contents
 
-- [CRUD TODO TASK](#crud-TODO-task)
-  - [Table of Contents](#table-of-contents)
+- [React Router TASK](#React-Router-task)
+  - 
   - [Netlify Deployed URL](#netlify-deployed-url)
   - [Features](#features)
   - [Getting Started](#getting-started)
@@ -11,17 +11,13 @@
  
 ## Netlify Deployed URL
 
-🔸*Check out My CRUD TODO TASK Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://lovely-monstera-3ce471.netlify.app/)
+🔸*Check out My CRUD TODO TASK Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://lively-sopapillas-b7411a.netlify.app/)
 
 ## Features
 
-- TODO Details display .
-- Create Todo Task with task name , Description & status.
-- By default status needs to added as not completed for created todo.
-- There should be two buttons in the name of edit and Delete which used to perform update and deletecreated    todos.
-- By onclick on status it should show a dropdown for completed and not completed by that we can change the status of todo
-- All todos should be displayed in Card
-- There should be filter to display status completed, not completed and both statuses
+- How use Navigation using Router  .
+- navigation for courses in the middle of the page like All , full stack development, Data science , Cyber Security & Career As Navigation menu
+- Create that navigation to courses using react router dom and add the contents as static as given in pages
 
 
 ## Getting Started
@@ -29,7 +25,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Athistaraja/Todo-Task.git
+   git clone https://github.com/Athistaraja/Router-Task.git
 
    ```
 
@@ -54,5 +50,6 @@
 ## Technologies Used
 
 - React
+- React-Router-Dom
 - HTML/CSS
 - Bootstrap for styling

@@ -32,7 +32,7 @@
 2. **Install dependencies:**
 
    ```bash
-   cd Todo task
+   cd Router-Task
    npm install
 
    ```
